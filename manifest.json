@@ -1,0 +1,9 @@
+{
+  "name": "FLAX-MD-V2",
+  "short_name": "FLAX-MD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#111827",
+  "icons": []
+}
